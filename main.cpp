@@ -14,7 +14,7 @@ class Rectangle : public Polygon {
 
 };
 
-
+//Typing SomeFunction
 
 
 int main () {
